@@ -1,0 +1,33 @@
+Python
+
+Source code
+
+IDE -> PyCharm
+
+snake_case_naming_convention
+
+Data types:
+str -> низ, текст, стринг => "text here", 'text here again'
+int -> целочислени стойности => 13; {1, 2, 3...} + { 0 } + {-1, -2 ...}
+float -> реални числа, дробни, с плаваща... => 3.14, 2.2222, -13.0
+
+input() => str
+
++ - / // * **  => PEMDAS / (), **, (*, /), (+, -)
+
+cast/convert;
+int(input())  => 13
+float(input()) => 13.0
+
+###
+Ctrl + C => copy
+Ctrl + V => paste
+
+
+# IDE commands
+
+Ctrl + Shift + F10  => run current file
+Ctrl + / => comment/uncommen
+
+
+# Code readability
